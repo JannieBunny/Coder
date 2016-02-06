@@ -9,4 +9,7 @@ Visit Ghost at: [www.ghost.org](http://www.ghost.org "Ghost")
 
 
 Demo
-http://coderd.herokuapp.com/
+
+Original: http://coderd.herokuapp.com/
+
+Forked: https://blog.christiaanrossouw.com
